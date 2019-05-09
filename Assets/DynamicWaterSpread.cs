@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class VirusSpread : MonoBehaviour
+public class DynamicWaterSpread : MonoBehaviour
 {
     static float YAxis = 6.5f;
 
